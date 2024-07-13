@@ -12,6 +12,7 @@ export default function Card() {
                     <h5 className="text-2xl font-semibold text-gray-900 dark:text-white">
                         Hire me In Your Front-End Developer Team
                     </h5>
+                    <h4 className='mt-4 dark:text-white'>To Know more, Please click on the card anywhere</h4>
                 </a>
             </div>
         </div>
